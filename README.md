@@ -144,7 +144,7 @@ Follow these steps Import Dashboard
 ---
 # Final Output
 
-![Output Screenshot](Final.png)
+image.png
 
 ![Output Screenshot](Ou.png)
 
