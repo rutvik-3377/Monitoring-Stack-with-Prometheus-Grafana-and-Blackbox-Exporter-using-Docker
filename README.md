@@ -144,7 +144,8 @@ Follow these steps Import Dashboard
 ---
 # Final Output
 
-[image.png](https://github.com/rutvik-3377/Monitoring-Stack-with-Prometheus-Grafana-and-Blackbox-Exporter-using-Docker/blob/5e2eff54132ce140ea5961349d698fb22878c576/image.png)
+![image](https://github.com/user-attachments/assets/2ccdf5bc-9f28-45f1-8485-fa7cfe57e1c5)
+
 
 ![Output Screenshot](Ou.png)
 
